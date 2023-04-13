@@ -83,7 +83,7 @@ const Experiences = () => {
           <SectionHeader>
             <Heading content="Ерөнхий ивээн тэтгэгч" />
             <Text
-              content={`"Dev Hackathon Student - 2022" тэмцээний ерөнхий ивээн тэтгэгч`}
+              content={`"Dev Hackathon Vol3 - 2023" тэмцээний ерөнхий ивээн тэтгэгч`}
             />
             <PricingPolicy>
               <FeatureBlock
